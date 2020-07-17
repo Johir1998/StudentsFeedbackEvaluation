@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">StudentsFeedbackEvaluation</string>
+    <string name="Title_Text">Alert title</string>
+    <string name="Message_Text">Do you want to exit?</string>
+    <string name="Student_Login_Button_Text">student login</string>
+    <string name="Teacher_Login_Button_Text">teacher login</string>
+    <string name="Result_Login_Button_Text">result login</string>
+    <string name="Admin_Panel_Button_Text">admin panel</string>
+</resources>
